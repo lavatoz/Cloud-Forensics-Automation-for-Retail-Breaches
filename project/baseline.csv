@@ -1,0 +1,4 @@
+File Name,Path,Size (Bytes),Created Time,Modified Time,Created Timestamp,Modified Timestamp,Status,Risk Level
+customers.csv,C:\Users\JOEL\Desktop\yenepoya\project\retail_files\customers.csv,23,2026-04-15 10:56:53,2026-04-19 14:28:12,1776230813.987821,1776589092.7149081,Modified,Medium
+invoices.txt,C:\Users\JOEL\Desktop\yenepoya\project\retail_files\invoices.txt,336,2026-04-15 10:56:53,2026-04-15 13:00:19,1776230813.927183,1776238219.5685735,Normal,Low
+products.json,C:\Users\JOEL\Desktop\yenepoya\project\retail_files\products.json,2,2026-04-15 10:56:54,2026-04-19 14:28:20,1776230814.0482066,1776589100.7089045,Modified,Medium
